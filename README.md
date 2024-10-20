@@ -14,7 +14,7 @@ JavaScript (ES6): Core logic for handling inputs and calculations.
 CSS Modules: Scoped styling for components.
 Vite: Fast build tool for bundling the project.
 
-**How to Run Locally:** <br/>
+**How to Run Locally:**
 1. Clone the repository: git clone https://github.com/rishigupta19/Steps-To-Km-Converter.git
 2. Navigate to the project directory: cd Steps-To-Km-Converter
 3. Install the dependencies: npm install
