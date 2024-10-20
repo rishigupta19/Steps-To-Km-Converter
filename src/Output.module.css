@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+
+.container {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.resultBox {
+  font-family: "Playwrite GB S", cursive;
+  border: 1px solid #ccc;
+  padding: 16px;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  display: inline-block;
+}

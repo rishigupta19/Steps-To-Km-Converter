@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.container-img{
+  background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20240819/pngtree-athlete-running-in-blue-speed-lines-background-stock-photo-image_16170217.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+
+.container{
+  justify-content: center;
+  margin-top: 0;
+}
